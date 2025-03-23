@@ -14,7 +14,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 from sklearn.metrics import accuracy_score
 
-st.title('Streamlit Example')
+st.title('Streamlit Example for AIFL Batch')
 
 st.write("""
 # Explore different classifier and datasets
